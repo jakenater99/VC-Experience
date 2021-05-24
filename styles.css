@@ -88,7 +88,7 @@ a {
     text-align: center;
 }
 
-.team {
+#team {
     background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/blurred-road.jpg");
     padding-top: 5px;
     display: flex;
